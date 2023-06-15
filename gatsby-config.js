@@ -2,6 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/ms-photos",
   siteMetadata: {
     title: `starcsiteU`,
     siteUrl: `https://www.yourdomain.tld`,
