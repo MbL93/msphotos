@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstarcsite_u=self.webpackChunkstarcsite_u||[]).push([[88],{1179:function(e,s,r){r.r(s);var a=r(7294),t=r(8951),c=r(1440);s.default=()=>a.createElement(t.Z,{imageHeaderSource:"source",headerIsVisible:!0,visibleNavbar:!0},a.createElement(c.s0,null,"Hi from Services!"))}}]);
+//# sourceMappingURL=component---src-pages-services-js-4e1fc10cc7416f64edec.js.map

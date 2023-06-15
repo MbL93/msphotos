@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstarcsite_u=self.webpackChunkstarcsite_u||[]).push([[704],{7243:function(e,a,s){s.r(a);var t=s(7294),r=s(8951);a.default=()=>t.createElement(r.Z,{imageHeaderSource:"source",headerIsVisible:!1,visibleNavbar:!0},t.createElement("h3",null,"I am Stefan!"))}}]);
+//# sourceMappingURL=component---src-pages-stefan-js-f1afb3ce0d1a4af787a0.js.map
